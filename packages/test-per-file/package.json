@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@vue/jsx": "workspace:*",
+    "react": "^18.2.0",
+    "@types/react": "^18.0.25"
+  }
+}

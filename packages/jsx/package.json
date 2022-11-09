@@ -1,0 +1,6 @@
+{
+  "name": "@vue/jsx",
+  "type": "module",
+  "module": "lib/index.js",
+  "types": "lib/index.d.ts"
+}

@@ -1,0 +1,7 @@
+{
+  "include": ["src/index.ts"],
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "lib"
+  }
+}
